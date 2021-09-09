@@ -44,3 +44,10 @@ print(elements4)
 #this part of the code clear the elements in the list.
 elements4.clear()
 print(elements4)
+
+#----------------------------Tuples in python---------------------------#
+
+#this line declares a tuple.
+tupla1 = (1, 2, 3, 4, 5, 4, 3, 2, 1)
+tupla2 = tuple((1, 3, 2, 3, 1))
+print(tupla1, tupla2)
