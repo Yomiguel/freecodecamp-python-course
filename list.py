@@ -51,3 +51,5 @@ print(elements4)
 tupla1 = (1, 2, 3, 4, 5, 4, 3, 2, 1)
 tupla2 = tuple((1, 3, 2, 3, 1))
 print(tupla1, tupla2)
+
+#----------------------------Dictionaries in python---------------------------#
