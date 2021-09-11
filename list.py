@@ -53,3 +53,16 @@ tupla2 = tuple((1, 3, 2, 3, 1))
 print(tupla1, tupla2)
 
 #----------------------------Dictionaries in python---------------------------#
+
+#this part of the code declares a dictionarie.
+users = {
+    'name' : ['Luis', 'Miguel','jimenez', 'castro'],
+    'id' : [1234, 5678, 9012, 3456],
+    'profession' : ['driver', 'chef', 'artist', 'athlete']
+}
+
+print(users)
+
+#this line print elements of the key id.
+print(users['id'])
+
