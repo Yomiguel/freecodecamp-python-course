@@ -1,4 +1,4 @@
-#----------------------------list in python---------------------------#
+""" #----------------------------list in python---------------------------#
 
 #this part of code declares a list.
 elements = ['luis', 15, False, 21.3]
@@ -64,7 +64,7 @@ users = {
 print(users)
 
 #this line print elements of the key id.
-print(users['id'])
+print(users['id']) """
 
 #----------------------------2D list ---------------------------#
 
@@ -74,3 +74,12 @@ x = [
     ['d', 'e', 'f'],
     ['g', 'h','i']
 ]
+
+#this part of the code print the matrix x.
+print(x)
+
+#this part of the code print the second row of the matrix x.
+print(x[1])
+
+#this part of the code print the element indicated of the matrix x.
+print(x[1][0])
