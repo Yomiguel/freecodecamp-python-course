@@ -1,4 +1,4 @@
-""" #----------------------------------------loops in python----------------------------------------#
+#----------------------------------------loops in python----------------------------------------#
 
 #----------------------------------------while----------------------------------------#
 
@@ -42,7 +42,7 @@ x = [
 #this part of the code prints all elements of the matrix
 for i in x:
     for y in i:
-        print(y) """
+        print(y) 
 
 #this part of the code prints the type of the variable stored in the list.
 elements3 = ['luis', 10, 'jimenez', False] 
