@@ -66,3 +66,11 @@ print(users)
 #this line print elements of the key id.
 print(users['id'])
 
+#----------------------------2D list ---------------------------#
+
+#this part of the code declares a matrix
+x = [
+    ['a', 'b', 'c'],
+    ['d', 'e', 'f'],
+    ['g', 'h','i']
+]
