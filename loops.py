@@ -28,7 +28,7 @@ names = ['luis', 'miguel', 'jimenez', 'castro']
 for i in names:
     print(i)
     if i == 'jimenez':
-        break  """
+        break 
 
 #----------------------------------------nested loops----------------------------------------#
 
@@ -39,6 +39,12 @@ x = [
     ['g', 'h','i']
 ]
 
+#this part of the code prints all elements of the matrix
 for i in x:
     for y in i:
-        print(y) 
+        print(y) """
+
+#this part of the code prints the type of the variable stored in the list.
+elements3 = ['luis', 10, 'jimenez', False] 
+for i in elements3:
+    print(type(elements3[elements3.index(i)]))
